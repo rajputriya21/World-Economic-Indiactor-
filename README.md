@@ -11,6 +11,9 @@ has different countries' and regions' GDPs, populations, and other factors that 
 impact GDP/Capita. Now using Data Analysis methods, develop a solution that can
 be referred to as "how a country can attain sustainable growth".
 
+
+What is GDP?
+
 Gross domestic product (GDP) is the total monetary or market value of all the
 finished goods and services produced within a country’s borders in a specific period,
 usually one financial year.
